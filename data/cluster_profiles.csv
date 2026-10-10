@@ -1,0 +1,5 @@
+cluster_id,segment_name,buyer_count,buyer_percentage,region_encoded_range,top_countries,individual_buyers,company_buyers,home_purpose_count,investment_purpose_count,investment_purpose_pct,loan_applied_yes,loan_applied_pct,avg_age,avg_satisfaction_score,avg_total_spend,avg_property_price,avg_properties_bought,avg_floor_area_sqft,avg_price_per_sqft,total_apartments_bought,total_offices_bought
+0,Segment 0: Low-Leverage Residential Buyers,349,17.45,44 - 56,"USA (282), Australia (22), UK (17)",335,14,248,101,28.94,115,32.95,54.5,3.13,1226028.07,350055.23,3.51,1159.82,301.17,1028,198
+1,Segment 1: High-Volume Core Portfolio Buyers (Global Investors),1115,55.75,0 - 16,"USA (943), Canada (47), Germany (39)",1060,55,771,344,30.85,401,35.96,55.33,3.0,1275002.96,346512.36,3.71,1145.49,302.67,3512,620
+2,Segment 2: High-Valuation Premium & Corporate Buyers,314,15.7,17 - 31,"USA (193), UK (24), France (19)",291,23,217,97,30.89,125,39.81,55.22,3.0,1259603.41,350987.23,3.6,1156.62,303.36,984,147
+3,Segment 3: Leveraged Investment Buyers,222,11.1,32 - 43,"USA (120), UK (25), Canada (23)",211,11,149,73,32.88,95,42.79,54.71,3.05,1241997.27,339816.98,3.68,1125.17,302.61,701,115
